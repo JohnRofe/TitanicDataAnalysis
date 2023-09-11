@@ -3,7 +3,7 @@ Data Analysis of the Titanic Dataset
 
 Project Overview
 
-The purpose of this project is to use machine learning  to create a model that predicts which passengers survived the Titanic shipwreck. 
+The purpose of this project is to use machine learning  to create a model that predicts which passengers survived the Titanic shipwreck. In this project, I will apply the skills I learned in the Data Analyst Advanced Google Certificate. 
 
 Business Understanding 
 
